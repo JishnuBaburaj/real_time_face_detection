@@ -1,5 +1,4 @@
 # Real-time Facial Detection
-Facial detection in real time using Python, Open CV and dlib.
 
 Software Requirements:
 1) Python
