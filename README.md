@@ -1,9 +1,17 @@
-# Real-time Facial Detection
+![Python 3.7.0](https://img.shields.io/badge/Python-3.7.0-blue.svg)
 
-Software Requirements:
+
+# Real-time Face Detection
+
+## Software Requirements:
+
 1) Python
 2) OpenCV
 3) dlib
 
-Harware Requirements:
-RaspberryPi camera
+## Hardware Requirements:
+RaspberryPi camera (used for this project) or any webcam
+
+## Results
+
+![real-time-face-detection](https://media.giphy.com/media/lMxKADoZRLpWGPD6FZ/giphy.gif)
