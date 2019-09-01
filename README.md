@@ -14,4 +14,8 @@ RaspberryPi camera (used for this project) or any webcam
 
 ## Results
 
-![real-time-face-detection](https://media.giphy.com/media/lMxKADoZRLpWGPD6FZ/giphy.gif)
+<p align="center">
+  <img width="" height="" src="https://media.giphy.com/media/lMxKADoZRLpWGPD6FZ/giphy.gif">
+</p>
+
+
